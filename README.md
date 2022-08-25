@@ -58,7 +58,7 @@ LED | 1 | D1 | na
 
 On the Schematic the BJT is a 2N2219, which should also work.
 
-For R2 use something that matches your LED but use at least 125Ω as the Tiny I/O pins support a maximum of 40mA. I used between 500Ω to 1000Ω to save power.
+For R2 use something that matches your LED but use at least 125Ω as the Tiny I/O pins support a maximum of 40mA. I used between 500Ω to 1000Ω.
 
 The capacitors I used are electrolytic, it would probably be better to use a ceramic cap for the 0.22μF.
 On the other hand the capacitors are not essential and it should work without the caps, but keep in mind that the LDO datasheet does recommend them.
