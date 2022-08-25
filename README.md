@@ -110,7 +110,7 @@ I built my boards in such a way that I could heat shrink the three wires going t
 ![Resulting Board](/images/AutoTurnOn3.jpeg)
 
 # PCB
-You can find the initial version of the pcb schematics, KiCad project and gerber files in the pcb folder. I have not tried to manufacture these as I ran out of time and I needed the boards asap. So I manufactured them from hand.
+You can find the initial version of the pcb schematics, KiCad project and gerber files in the pcb folder. I have not tried to manufacture these as I ran out of time and I needed the boards asap. So I manufactured them by hand.
 
 I changed all components to be SMD components, with the exception of the ATtiny85.
 
